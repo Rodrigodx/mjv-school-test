@@ -1,0 +1,1 @@
+Olá, me chamo Rodrigo, tenho dezenove anos e estou criando esse arquivo para ver ser meu repositório está funcionando.
